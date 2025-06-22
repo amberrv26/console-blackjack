@@ -44,4 +44,4 @@
 
 ## License
 
-- This project is open for personal or educational use, so please feel free to modify or contribute
+- This project is intended to showcase my programming skills as part of my portfolio. Therefore, it is not currently open for external contributors. Please do not redistribute or reuse without permission.
